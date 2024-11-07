@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- A person who is passionately fond of programming.
+- 🌟 A person who is passionately fond of programming.
 - 🌱 I’m currently learning rust.
 
 <!--
