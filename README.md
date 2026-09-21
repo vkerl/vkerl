@@ -13,9 +13,9 @@
 <a href="https://github.com/vkerl/vkerl">
   <img align="center" src="https://raw.githubusercontent.com/vkerl/vkerl/output/top-langs.svg" />
 </a>
-<a href="https://github.com/vkerl/vkerl">
+<!-- <a href="https://github.com/vkerl/vkerl">
   <img align="center" src="https://raw.githubusercontent.com/vkerl/vkerl/output/stats.svg" alt="vkerl's GitHub Stats" />
-</a>
+</a> -->
 
 <picture>
   <source
